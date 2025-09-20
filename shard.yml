@@ -1,0 +1,12 @@
+name: dotenv
+version: 0.1.0
+
+authors:
+  - Your Name <your.email@example.com>
+
+crystal: ">= 1.0.0"
+
+license: MIT
+
+description: |
+  A simple, robust dotenv library for Crystal that handles empty values and edge cases gracefully.
